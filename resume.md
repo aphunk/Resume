@@ -8,16 +8,20 @@
 ## WORK EXPERIENCE
 
    **Product Designer** 
-   _Leafly_ | Sep. 2015 - Present
+   
+   Leafly | Sep. 2015 - Present
 
    **Brand Manager/Designer** 
-   _Dorothea Coffee_ | May 2014 - Present
+   
+   Dorothea Coffee | May 2014 - Present
 
-   **GRAPHIC DESIGNER** 
-   _Project on Family Homelessness_ | Dec. 2014 - Sep 2015
+   **Graphic Designer** 
+   
+   Project on Family Homelessness | Dec. 2014 - Sep 2015
 
-   **GRAPHIC DESIGNER** 
-   _Seattle Parks and Recreation_ | May 2016
+   **Graphic Designer** 
+   
+   Seattle Parks and Recreation | May 2016
 
 <br>
 
