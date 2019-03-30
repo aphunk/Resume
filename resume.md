@@ -17,7 +17,7 @@
 
 <br>
 
-### EDUCATION
+## EDUCATION
 
 **SOFTWARE DEVELOPMENT STUDENT** - Ada Developers Academy | Jan 2019 - Present
 
