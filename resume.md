@@ -7,30 +7,20 @@
 
 ## WORK EXPERIENCE
 
-   **Product Designer** 
-   
-   Leafly | Sep. 2015 - Present
+   **PRODUCT DESIGNER** - Leafly | Sep 2015 - Jan 2019
 
-   **Brand Manager/Designer** 
-   
-   Dorothea Coffee | May 2014 - Present
+   **BRAND MANAGER** - Dorothea Coffee | May 2014 - Present
 
-   **Graphic Designer** 
-   
-   Project on Family Homelessness | Dec. 2014 - Sep 2015
+   **GRAPHIC DESIGNER** - Project on Family Homelessness | Dec 2014 - Sep 2015
 
-   **Graphic Designer** 
-   
-   Seattle Parks and Recreation | May 2016
+   **GRAPHIC DESIGNERr** - Seattle Parks and Recreation | May 2016
 
 <br>
 
 ### EDUCATION
 
-##### Software Development Student 
-Ada Developers Academy | Jan 2019 - Present
+**SOFTWARE DEVELOPMENT STUDENT** - Ada Developers Academy | Jan 2019 - Present
 
-##### B.A. Digital Design
-Seattle University | 2013
+**B.A. Digital Design** - Seattle University | 2013
 
 
