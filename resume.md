@@ -5,26 +5,27 @@
 <br>
 </div>
 
-##### WORK EXPERIENCE
+### WORK EXPERIENCE
 
 ##### PRODUCT DESIGNER
 Leafly | Sep. 2015 - Present
 
-Freelance DESIGNER + ILLUSTRATOR 
-Dorothea Coffee - May 2014 - Present
+##### DESIGNER + ILLUSTRATOR 
+Dorothea Coffee | May 2014 - Present
 
-GRAPHIC DESIGNER
+##### GRAPHIC DESIGNER
 Project on Family Homelessness | Dec. 2014 - Sep 2015
 
-Freelance GRAPHIC DESIGNER 
+##### GRAPHIC DESIGNER 
 Seattle Parks and Recreation | May 2016
 
-#### EDUCATION
+<br>
+### EDUCATION
 
-Jan 2019 - Present
-Software Development Student | Ada Developers Academy
+##### Software Development Student 
+Ada Developers Academy | Jan 2019 - Present
 
-2013
-B.A. Digital Design | Seattle University
+##### B.A. Digital Design
+Seattle University | 2013
 
 
