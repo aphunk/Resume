@@ -5,19 +5,19 @@
 <br>
 </div>
 
-### WORK EXPERIENCE
+## WORK EXPERIENCE
 
-   PRODUCT DESIGNER
-   _Leafly | Sep. 2015 - Present
+   **Product Designer** 
+   _Leafly_ | Sep. 2015 - Present
 
-   DESIGNER + ILLUSTRATOR 
-   _Dorothea Coffee | May 2014 - Present
+   **Brand Manager/Designer** 
+   _Dorothea Coffee_ | May 2014 - Present
 
-   GRAPHIC DESIGNER
-   _Project on Family Homelessness | Dec. 2014 - Sep 2015
+   **GRAPHIC DESIGNER** 
+   _Project on Family Homelessness_ | Dec. 2014 - Sep 2015
 
-   GRAPHIC DESIGNER 
-   _Seattle Parks and Recreation | May 2016
+   **GRAPHIC DESIGNER** 
+   _Seattle Parks and Recreation_ | May 2016
 
 <br>
 
