@@ -2,12 +2,12 @@
 
 <div id="webaddress">
  <h6> <a href="phung.amy85@gmail.com">EMAIL</a> | <a href="https://github.com/aphunk">GITHUB</a> | <a href="https://amyphung.xyz">WEBSITE</a></h6>
-
+<br>
 </div>
 
 ##### WORK EXPERIENCE
 
-PRODUCT DESIGNER
+##### PRODUCT DESIGNER
 Leafly | Sep. 2015 - Present
 
 Freelance DESIGNER + ILLUSTRATOR 
