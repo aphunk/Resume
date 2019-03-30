@@ -1,4 +1,4 @@
-## AMY PHUNG
+# AMY PHUNG
 
 <div id="webaddress">
  <h6> <a href="phung.amy85@gmail.com">EMAIL</a> | <a href="https://github.com/aphunk">GITHUB</a> | <a href="https://amyphung.xyz">WEBSITE</a></h6>
@@ -7,19 +7,20 @@
 
 ### WORK EXPERIENCE
 
-##### PRODUCT DESIGNER
-Leafly | Sep. 2015 - Present
+   PRODUCT DESIGNER
+   _Leafly | Sep. 2015 - Present
 
-##### DESIGNER + ILLUSTRATOR 
-Dorothea Coffee | May 2014 - Present
+   DESIGNER + ILLUSTRATOR 
+   _Dorothea Coffee | May 2014 - Present
 
-##### GRAPHIC DESIGNER
-Project on Family Homelessness | Dec. 2014 - Sep 2015
+   GRAPHIC DESIGNER
+   _Project on Family Homelessness | Dec. 2014 - Sep 2015
 
-##### GRAPHIC DESIGNER 
-Seattle Parks and Recreation | May 2016
+   GRAPHIC DESIGNER 
+   _Seattle Parks and Recreation | May 2016
 
 <br>
+
 ### EDUCATION
 
 ##### Software Development Student 
