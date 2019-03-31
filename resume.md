@@ -12,7 +12,7 @@ As a Product Designer in the technology field I became passionate about technolo
 
 **PRODUCT DESIGNER** - *Leafly* | Sep 2015 - Jan 2019
 - Collaborated closely with Director of Design, product managers, stakeholders and engineers in an iterative, transparent and feedback driven process to create clean, user-centered web and mobile applications
-- Participated in every phase of the design process from initial conceptualization, to prototypes, wireframes, and visual design, handoff to Engineering
+- Participated in every phase of the design process from initial conceptualization, to prototypes, wireframes, visual design, and handoff to Engineering
 - Conducted user tests to understand customer’s objectives and identify opportunities for improvement
 - Worked closely with Engineering to ensure a high-quality implementation and user experience
 - Managed work from strategy, scope and deadlines in a fast-paced environment, against shifting priorities
