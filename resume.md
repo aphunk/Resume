@@ -33,16 +33,12 @@ Project on Family Homelessness | Dec 2014 - Sep 2015
 
 ## VOLUNTEER
 
-**TUTOR** -
 CCS Youth Tutoring Program | Dec 2018 - Present
 
-**DISCUSSION FACILITATOR** -
 Firesteel Poverty Immersion Workshops | May 2016
 
-**OFFICE AID/CLIENT ADVOCATE** -
 KiND (Kids in Need of Defense) | May - Oct 2015
 
-**GRAPHIC DESIGNER** -
 Coalition for Refugees of Burma | Feb - Mar 2015
 <br>
 <br>
