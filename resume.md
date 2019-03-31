@@ -19,7 +19,7 @@ Leafly | Sep 2015 - Jan 2019
 - Managed work from strategy, scope and deadlines in a fast-paced environment, against shifting priorities
 
 **CREATIVE DIRECTOR (*freelance*)** -
-Dorothea Coffee | May 2014 - Present 
+Dorothea Coffee | May 2013 - Present 
 - Designed and executed all branding elements and guidelines that are still in use today
 -	Responsible for creating all Marketing materials across a variety of mediums and platforms
 - Collaborates with owners to identify new business opportunities and potential partnerships
@@ -33,19 +33,26 @@ Project on Family Homelessness | Dec 2014 - Sep 2015
 
 ## VOLUNTEER
 
-**CCS Youth Tutoring Program** | Dec 2018 - Present<br>
-**Firesteel Poverty Immersion Workshops** | May 2016<br>
-**KiND (Kids in Need of Defense)** | May - Oct 2015<br>
-**Coalition for Refugees of Burma** | Feb - Mar 2015
+**TUTOR**
+<br>CCS Youth Tutoring Program* | Dec 2018 - Present<br>
+
+**DISCUSSION FACILITATOR**
+<br>Firesteel Poverty Immersion Workshops | May 2016<br>
+
+**OFFICE AID/CLIENT ADVOCATE** 
+<br>KiND (Kids in Need of Defense) | May - Oct 2015<br>
+
+**GRAPHIC DESIGN** 
+<BR>Coalition for Refugees of Burma | Feb - Mar 2015
 <br>
 <br>
 
 ## EDUCATION
 
-**STUDENT** -
-Ada Developers Academy | Jan 2019 - Present
+**STUDENT** 
+<br>Ada Developers Academy | Jan 2019 - Present
 
 **B.A. DIGITAL DESIGN** -
-Seattle University | 2013
+<br>Seattle University | 2013
 
 
