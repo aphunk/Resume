@@ -1,6 +1,6 @@
 # AMY PHUNG
 
- <h5> <a href="phung.amy85@gmail.com">EMAIL</a> | <a href="https://github.com/aphunk">GITHUB</a> | <a href="https://amyphung.xyz">WEBSITE</a></h5>
+ <h5> <a href="phung.amy85@gmail.com">EMAIL</a>  |  <a href="https://github.com/aphunk">GITHUB</a>  |  <a href="https://amyphung.xyz">WEBSITE</a></h5>
 <br> 
 
 :wave: **Hello!**
