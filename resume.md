@@ -4,11 +4,11 @@
 <br> 
 
 :wave: **Hello!**
-As a Product Designer in the technology field I became passionate about technology that works to improve the lives of its users. Close collaboration with the Engineering team exposed me to a different side of the product development process that I was enthralled by and simultaneously troubled by: the disparity between the makers of the product and the users of the product. I am seeking to grow as a developer with a team that shares my belief that a diverse and inclusive team of collaborators is what creates the most successful technology.
+As a Product Designer in the technology field I became passionate about technology that works to improve the lives of its users. Close collaboration with the Engineering team exposed me to a different side of the product development process that I was enthralled by and simultaneously troubled by: the disparity between the makers of the product and the users of the product. I'm seeking to grow as a developer with a team that shares my belief that a diverse and inclusive team of collaborators is what creates the most innovative and successful technology.
 
 <br> 
 
-## WORK EXPERIENCE
+## PROFESSIONAL EXPERIENCE
 
 **PRODUCT DESIGNER** -
 Leafly | Sep 2015 - Jan 2019
@@ -18,7 +18,7 @@ Leafly | Sep 2015 - Jan 2019
 - Worked closely with Engineering to ensure a high-quality implementation and user experience
 - Managed work from strategy, scope and deadlines in a fast-paced environment, against shifting priorities
 
-**BRAND MANAGER (*freelance*)** -
+**CREATIVE DIRECTOR (*freelance*)** -
 Dorothea Coffee | May 2014 - Present 
 - Designed and executed all branding elements and guidelines that are still in use today
 -	Responsible for creating all Marketing materials across a variety of mediums and platforms
