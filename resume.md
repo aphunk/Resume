@@ -33,13 +33,10 @@ Project on Family Homelessness | Dec 2014 - Sep 2015
 
 ## VOLUNTEER
 
-CCS Youth Tutoring Program | Dec 2018 - Present
-
-Firesteel Poverty Immersion Workshops | May 2016
-
-KiND (Kids in Need of Defense) | May - Oct 2015
-
-Coalition for Refugees of Burma | Feb - Mar 2015
+**CCS Youth Tutoring Program** | Dec 2018 - Present<br>
+**Firesteel Poverty Immersion Workshops** | May 2016<br>
+**KiND (Kids in Need of Defense)** | May - Oct 2015<br>
+**Coalition for Refugees of Burma** | Feb - Mar 2015
 <br>
 <br>
 
