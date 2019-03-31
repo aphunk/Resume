@@ -32,13 +32,10 @@ As a Product Designer in the technology field I became passionate about technolo
 
 **TUTOR**
 *CCS Youth Tutoring Program* | Dec 2018 - Present<br>
-
 **DISCUSSION FACILITATOR**
 *Firesteel Poverty Immersion Workshop* | May 2016<br>
-
 **OFFICE AID/CLIENT ADVOCATE** 
 *KiND (Kids in Need of Defense)* | May - Oct 2015<br>
-
 **GRAPHIC DESIGN** 
 *Coalition for Refugees of Burma* | Feb - Mar 2015
 <br>
@@ -48,7 +45,6 @@ As a Product Designer in the technology field I became passionate about technolo
 
 **STUDENT** 
 *Ada Developers Academy* | Jan 2019 - Present
-
 **B.A. DIGITAL DESIGN** -
 *Seattle University* | 2013
 
