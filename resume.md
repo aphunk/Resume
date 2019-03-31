@@ -2,12 +2,10 @@
 
  <h6> <a href="phung.amy85@gmail.com">EMAIL</a> | <a href="https://github.com/aphunk">GITHUB</a> | <a href="https://amyphung.xyz">WEBSITE</a></h6>
  
-***
 :wave: **HELLO!**
 
 As a Product Designer in the technology field I became passionate about technology that works to improve the lives of its users. Close collaboration with the Engineering team exposed me to a different side of the product development process that I was enthralled by and simultaneously troubled by: the disparity between the makers of the product and the users of the product. I am seeking to grow as a developer with a team that shares my belief that a diverse and inclusive team of collaborators is what creates the most successful technology.
-
-*** 
+ 
 <br>
 
 ## WORK EXPERIENCE
@@ -54,7 +52,7 @@ Coalition for Refugees of Burma | Feb - Mar 2015
 **STUDENT** -
 Ada Developers Academy | Jan 2019 - Present
 
-**B.A. Digital Design** -
+**B.A. DIGITAL DESIGN** -
 Seattle University | 2013
 
 
