@@ -27,7 +27,6 @@ As a Product Designer in the technology field I became passionate about technolo
 - Executed a complete redesign of the organization's WordPress website
 - Collaborated closely with the Program Director to strategize, design, and create email marketing templates
 <br>
-<br>
 
 ## EDUCATION
 
