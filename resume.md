@@ -4,7 +4,7 @@
 <br> 
 
 :wave: **Hello!**
-As a Product Designer in the technology field I became passionate about technology that works to improve the lives of its users. Close collaboration with the Engineering team exposed me to a different side of the product development process that I was enthralled by. I'm seeking to grow as a developer with a team that shares my belief that a diverse and inclusive team of collaborators is essential to creating innovative and successful technology.
+As a Product Designer in the technology field I became passionate about technology that works to improve the lives of its users. Close collaboration with engineers exposed me to a different side of the product development process that I was enthralled by. I'm seeking to grow as a developer with a team that shares my belief that a diverse and inclusive team of collaborators is essential to creating innovative and successful technology.
 
 <br> 
 
