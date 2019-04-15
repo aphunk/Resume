@@ -17,7 +17,7 @@ As a Product Designer in the technology field I became passionate about technolo
 - Worked closely with Engineering to ensure a high-quality implementation and user experience
 - Managed work from strategy, scope and deadlines in a fast-paced environment, against shifting priorities
 
-**BRAND MANAGER (*freelance*)** - *Dorothea Coffee* | May 2013 - Present
+**DESIGNER + ILLUSTRATOR (*freelance*)** - *Dorothea Coffee* | May 2013 - Present
 - Designed and executed all branding elements and guidelines that are still in use today
 -	Responsible for creating all Marketing materials across a variety of mediums and platforms
 - Collaborates with owners to identify new business opportunities and potential partnerships
