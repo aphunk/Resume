@@ -35,6 +35,9 @@ I am a visual designer and current software engineering student at Ada Developer
 **FULL STACK SOFTWARE DEVELOPMENT** 
 *Ada Developers Academy* | Jan 2019 - Present
 
+**VISUAL DESIGN FOR UX COURSE**
+*School of Visual Concepts* | May 2017 - Jun 2017
+
 **B.A. DIGITAL DESIGN** -
 *Seattle University* | 2013
 <br>
