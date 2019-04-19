@@ -4,8 +4,7 @@
 <br> 
 
 :wave: **Hello!**
-As a Product Designer in the technology field I became passionate about technology that works to improve the lives of its users. Close collaboration with engineers exposed me to a different side of the product development process that I was enthralled by. I'm seeking to grow as a developer with a team that shares my belief that a diverse and inclusive team of collaborators is essential to creating innovative and successful technology.
-
+I am a visual designer and current software engineering student at Ada Developers Academy with experience in brand strategy, marketing, user interface, and user experience design for small business and established brands. I have a passion for creating user friendly technology accessible to everyone and believe that inclusive and diverse collaborative teams are the way to put people first when creating innovative and successful technology. 
 <br> 
 
 ## PROFESSIONAL EXPERIENCE
@@ -18,12 +17,15 @@ As a Product Designer in the technology field I became passionate about technolo
 - Managed work from strategy, scope and deadlines in a fast-paced environment, against shifting priorities
 
 **DESIGNER + ILLUSTRATOR (*freelance*)** - *Dorothea Coffee* | May 2013 - Present
-- Designed and executed all branding elements and guidelines that are still in use today
--	Responsible for creating all Marketing materials across a variety of mediums and platforms
+- Head responsibility to conceptualize, design and implement all creative graphics projects
+- Provide high quality creative direction to ensure brand consistency
+- Established a holistic brand profile including logo, color schemes, illustration style, typography and signage
+-	Assists in web design, setting up Shopify integration, and creating a good user experience
 - Collaborates with owners to identify new business opportunities and potential partnerships
 
 **GRAPHIC DESIGNER** - *Project on Family Homelessness* | Dec 2014 - Sep 2015
 - Created logos and marketing materials for 15+ non-profit organizations
+- Created a range of digital projects including responsive websites, landing pages, performance marketing, and social media
 - Executed a complete redesign of the organization's WordPress website
 - Collaborated closely with the Program Director to strategize, design, and create email marketing templates
 <br>
