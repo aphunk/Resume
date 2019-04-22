@@ -4,7 +4,7 @@
 <br> 
 
 :wave: **Hello!**
-I am a visual designer and current software engineering student at Ada Developers Academy with experience in brand strategy, marketing, user interface, and user experience design for small business and established brands. I have a passion for creating user friendly technology accessible to everyone and believe that inclusive and diverse collaborative teams are the way to put people first when creating innovative and successful technology. 
+I'm a creative problem-solver, human-centric Visual Designer, and current software engineering student at Ada Developers Academy. With experience in brand strategy, marketing, user interface, and user experience design for both small businesses and established brands, I approach software development from a unique perspective. I have a passion for creating user friendly technology accessible to everyone and believe that inclusive and diverse collaborative teams are the way to put people first when creating innovative and successful technology.   
 <br> 
 
 ## PROFESSIONAL EXPERIENCE
