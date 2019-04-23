@@ -1,10 +1,10 @@
 # AMY PHUNG
 
- <h5> <a href="phung.amy85@gmail.com">EMAIL</a>  |  <a href="https://github.com/aphunk">GITHUB</a>  |  <a href="https://www.linkedin.com/in/amy-phungk/">LINKEDIN</a></h5>
+ <h5>206.979.2452 | <a href="phung.amy85@gmail.com">EMAIL</a>  |  <a href="https://github.com/aphunk">GITHUB</a>  |  <a href="https://www.linkedin.com/in/amy-phungk/">LINKEDIN</a></h5>
 <br> 
 
 :wave: **Hello!**
-I'm a creative problem-solver, human-centric Visual Designer, and current software engineering student at Ada Developers Academy. With experience in brand strategy, marketing, user interface, and user experience design for both small businesses and established brands, I approach software development from a unique perspective. I have a passion for creating user friendly technology accessible to everyone and believe that inclusive and diverse collaborative teams are the way to put people first when creating innovative and successful technology.   
+I'm a creative problem-solver, human-centric Visual Designer, and current software engineering student at Ada Developers Academy. With experience in brand strategy, marketing, user interface, and user experience design for both small businesses and established brands, I approach software development from a unique perspective. I have a passion for creating friendly technology accessible to everyone and believe that inclusive and diverse collaborative teams are the way to put people first when creating innovative and successful technology.
 <br> 
 
 ## PROFESSIONAL EXPERIENCE
@@ -20,7 +20,7 @@ I'm a creative problem-solver, human-centric Visual Designer, and current softwa
 - Head responsibility to conceptualize, design and implement all creative graphics projects
 - Provide high quality creative direction to ensure brand consistency
 - Established a holistic brand profile including logo, color schemes, illustration style, typography and signage
--	Assists in web design, setting up Shopify integration, and creating a good user experience
+-	Assists in web design, setting up Shopify integration, and creating a great online customer experience
 - Collaborates with owners to identify new business opportunities and potential partnerships
 
 **GRAPHIC DESIGNER** - *Project on Family Homelessness* | Dec 2014 - Sep 2015
