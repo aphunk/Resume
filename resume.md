@@ -1,11 +1,13 @@
 # AMY PHUNG
 
  <h5>206.979.2452 | <a href="phung.amy85@gmail.com">EMAIL</a>  |  <a href="https://github.com/aphunk">GITHUB</a>  |  <a href="https://www.linkedin.com/in/amy-phungk/">LINKEDIN</a></h5>
-<br><br>
+<br>
+<br>
 
 :wave: **Hello!**
 I'm a creative problem-solver, human-centric Visual Designer, and current software engineering student at Ada Developers Academy. With experience in brand strategy, marketing, user interface, and user experience design for both small businesses and established brands, I approach software development from a unique, holistic perspective. I have a passion for creating friendly applications accessible to everyone, and believe that inclusive and diverse collaborative teams are the way to put people first when creating innovative and successful technology.
 <br> 
+<br>
 
 ## PROFESSIONAL EXPERIENCE
 
