@@ -19,7 +19,7 @@ I'm a creative problem-solver, human-centric Visual Designer, and current softwa
 - Managed work from strategy, scope, and deadlines in a fast-paced environment, often against shifting priorities
 
 **DESIGNER + ILLUSTRATOR (*freelance*)** - *Dorothea Coffee* | May 2013 - Present
-- Head responsibility to conceptualize, design and implement all creative graphics projects
+- Responsible for conceptualization, design, and implementation of all creative projects
 - Provide high quality creative direction to ensure brand consistency
 - Established a holistic brand profile including logo, color schemes, illustration style, typography and signage
 -	Assists in web design, setting up Shopify integration, and creating a great online customer experience
